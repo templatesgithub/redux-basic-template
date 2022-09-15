@@ -1,1 +1,1 @@
-# redux-basic-template
+# Redux Basic Template
